@@ -1,5 +1,12 @@
-## Hi there 👋
+## Olá, eu sou Erick Dias 👋
+Sou estudante de Sistemas de Informação.
+Estou interessado em :
+- Programação de Sistemas/Baixo Nível
+- Desenvolvimento Web e Back-End
 
+## Linguagens
+- C
+- HTML, CSS, Javascript
 <!--
 **ErickDBarbosa/ErickDBarbosa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
