@@ -1,4 +1,5 @@
 ## Olá, eu sou Erick Dias 👋
+[!LinkedIn](www.linkedin.com/in/erick-dias-b91125331)
 Sou estudante de Sistemas de Informação.
 Estou interessado em :
 - Programação de Sistemas/Baixo Nível
@@ -8,6 +9,8 @@ Estou interessado em :
 - C
 - Java
 - HTML, CSS, Javascript
+
+## 
 <!--
 **ErickDBarbosa/ErickDBarbosa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
