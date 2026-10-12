@@ -6,6 +6,7 @@ Estou interessado em :
 
 ## Linguagens
 - C
+- Java
 - HTML, CSS, Javascript
 <!--
 **ErickDBarbosa/ErickDBarbosa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
