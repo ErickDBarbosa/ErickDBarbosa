@@ -1,5 +1,6 @@
 ## Olá, eu sou Erick Dias 👋
 [!LinkedIn](www.linkedin.com/in/erick-dias-b91125331)
+
 Sou estudante de Sistemas de Informação.
 Estou interessado em :
 - Programação de Sistemas/Baixo Nível
